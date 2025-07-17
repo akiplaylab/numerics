@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkiPlayLab.Numerics", "AkiPlayLab.Numerics\AkiPlayLab.Numerics.csproj", "{117EF40D-AB98-4DE3-9400-9792EFDE8C18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AkiPlayLab.Numerics.Tests", "AkiPlayLab.Numerics.Tests\AkiPlayLab.Numerics.Tests.csproj", "{79377DC5-B7C3-4ED9-9829-307F9AF6B87C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{117EF40D-AB98-4DE3-9400-9792EFDE8C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117EF40D-AB98-4DE3-9400-9792EFDE8C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117EF40D-AB98-4DE3-9400-9792EFDE8C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117EF40D-AB98-4DE3-9400-9792EFDE8C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79377DC5-B7C3-4ED9-9829-307F9AF6B87C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79377DC5-B7C3-4ED9-9829-307F9AF6B87C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79377DC5-B7C3-4ED9-9829-307F9AF6B87C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79377DC5-B7C3-4ED9-9829-307F9AF6B87C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0765E06E-2B90-4FF9-874B-8BC97D224793}
+	EndGlobalSection
+EndGlobal
